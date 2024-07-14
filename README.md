@@ -10,7 +10,7 @@ Install required Python packages:
 pip install -r requirements.txt
 ```
 ## Dataset
-You can download our built dataset [here]("https://drive.google.com/drive/folders/1hXl-LHCk9oaXw578arLKbhofnPmsL7eL?usp=sharing")
+You can download our built dataset [here](https://drive.google.com/drive/folders/1hXl-LHCk9oaXw578arLKbhofnPmsL7eL?usp=sharing)
 # Usage
 Notebook create_dataset.ipynb shows how we create datasets for train, validation, and test for all models. 
 Each file in folder "model" demonstrates our training and testing processes for each model.
