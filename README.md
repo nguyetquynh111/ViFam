@@ -3,7 +3,7 @@
 This repository contains scripts to reproduce the experiment results in the paper:
 
 "ViFam: A new dataset for Fall Detection Problem and Overall Analysis,"
-published in the conference SOMET 2024
+which is accepted at the conference SOMET 2024
 # Preparation
 Install required Python packages:
 ```bash
