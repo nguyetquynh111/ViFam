@@ -18,6 +18,12 @@ Each file in folder "model" demonstrates our training and testing processes for 
 ## References and contact
 We recommend you cite our following paper when using these codes for further investigation:
 ```bash
+@article{ViFam,
+  title={ViFam: A new dataset for Fall Detection Problem and Overall Analysis},
+  author={Thao V. Ha, Quynh T. N.  Nguyen, Dung V. Huynh, Huy Q. Truong, Quang C. Tran, Hien D.  Nguyen, Binh T.  Nguyen},
+  journal={Proceedings of The 22th International Conference on Intelligent Software Methodologies, Tools, and Techniques (SoMeT) 2024},
+  year={2024}
+}
 ```
 You can send additional requests directly to the corresponding authors: Binh T. Nguyen (ngtbinh@hcmus.edu.vn) and Quynh T.N Nguyen (thuynguyetquynh@gmail.com) for appropriate permission.
 
